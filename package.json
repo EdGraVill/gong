@@ -10,5 +10,6 @@
   },
   "devDependencies": {
     "parcel": "^2.2.0"
-  }
+  },
+  "homepage": "https://edgravill.github.io/gong"
 }
