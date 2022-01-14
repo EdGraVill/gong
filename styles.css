@@ -1,0 +1,14 @@
+body {
+  align-items: center;
+  cursor: url('./assets/stick.png'), auto;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+#gong {
+  max-width: 500px;
+  width: 90vw;
+}
